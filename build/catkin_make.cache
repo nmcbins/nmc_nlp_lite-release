@@ -1,2 +1,0 @@
-nmc_nlp_lite
--DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/jj/sdk/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jj/sdk/catkin_ws/install -G Unix Makefiles
