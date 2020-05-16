@@ -1,0 +1,5 @@
+2020.5.14 notes
+to reduce a level of complexity, copy /SDK/nmc_bins_python_top/nmc_bins.py here, 
+instead of having this ROS package users to install nmcbins from pypi.org.
+
+Don't forget to update/recopy if nmc_bins.py is modified -- do a symbolic link later on.
