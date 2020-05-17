@@ -18,8 +18,8 @@ tracks:
     patches: null
     release_inc: '1'
     release_repo_url: null
-    release_tag: 0.0.2
+    release_tag: 0.0.3
     ros_distro: melodic
     vcs_type: git
-    vcs_uri: file:///mnt/c/inetpub_nlp/wwwroot/LN_home/SDK/catkin_ws
-    version: 0.0.2
+    vcs_uri: file:///mnt/c/inetpub_nlp/wwwroot/LN_home/SDK/catkin_ws/src/nmc_nlp_lite
+    version: 0.0.3
