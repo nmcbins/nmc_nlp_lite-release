@@ -1,0 +1,8 @@
+prefix=/home/jj/sdk/catkin_ws/install
+
+Name: nmc_nlp_lite
+Description: Description of nmc_nlp_lite
+Version: 0.0.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
