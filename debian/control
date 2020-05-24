@@ -1,0 +1,12 @@
+Source: ros-melodic-nmc-nlp-lite
+Section: misc
+Priority: optional
+Maintainer: bins_dev <jj@nmcomputing.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-message-generation, ros-melodic-rospy
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-nmc-nlp-lite
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-message-runtime, ros-melodic-rospy
+Description: The nmc_nlp_lite package
