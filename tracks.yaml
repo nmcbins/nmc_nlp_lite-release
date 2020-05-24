@@ -18,8 +18,8 @@ tracks:
     patches: null
     release_inc: '1'
     release_repo_url: https://github.com/nmcbins/nmc_nlp_lite-release.git
-    release_tag: 0.0.5
+    release_tag: 0.0.6
     ros_distro: melodic
     vcs_type: git
-    vcs_uri: file:///mnt/c/inetpub_nlp/wwwroot/LN_home/SDK/catkin_ws/src/nmc_nlp_lite
-    version: 0.0.5
+    vcs_uri: https://github.com/nmcbins/nmc_nlp_lite_ros.git
+    version: 0.0.6
