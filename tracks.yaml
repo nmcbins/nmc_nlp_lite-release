@@ -17,7 +17,7 @@ tracks:
     name: nmc_nlp_lite
     patches: null
     release_inc: '2'
-    release_repo_url: https://github.com/nmcbins/nmc_nlp_lite-release.git
+    release_repo_url: https://github.com/nmcbins/nmc_nlp_lite_ros-release.git
     release_tag: 0.0.7
     ros_distro: melodic
     vcs_type: git
