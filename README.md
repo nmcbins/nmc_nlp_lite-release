@@ -15,5 +15,7 @@ nmc_nlp_lite, as a wrapper of BINS, can be launched as a ROS node that supports 
 
 Authors:
   JJ Cao：Neuronmap Computing Corp.
+  
   Xiaofeng Shao：Tsinghua University
+  
   Shengjin Wang：Tsinghua University
