@@ -14,6 +14,7 @@ Upon matching of a pre-defined pattern, BINS lets a developer specify what to pr
 nmc_nlp_lite, as a wrapper of BINS, can be launched as a ROS node that supports both publish/subscribe mode (for asynchronous access) or service mode (for synchronous access).
 
 Authors:
+
   JJ Cao：Neuronmap Computing Corp.
   
   Xiaofeng Shao：Tsinghua University
